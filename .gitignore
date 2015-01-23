@@ -1,0 +1,4 @@
+# files you don't want to track
+vendor/*
+composer*
+coverage
